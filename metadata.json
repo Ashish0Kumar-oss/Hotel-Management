@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Hotel Management System",
+  "description": "Enterprise-grade luxury hotel management frontend with glassmorphism UI, real-time analytics, room booking, reception check-in desk, housekeeping Kanban, digital payments, guest CRM, and smart calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
